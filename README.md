@@ -59,9 +59,9 @@ print(value)
 ```
 
 ## Output:
-i)
+### i)
 ![output](./out1.jpg)
-ii)
+### ii)
 ![output](./out2.jpg)
 
 ## Result:
